@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Cola python", "Cola python\Cola python.pyproj", "{D0907D51-38B8-47D8-A79B-96CD04FE7243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0907D51-38B8-47D8-A79B-96CD04FE7243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0907D51-38B8-47D8-A79B-96CD04FE7243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82A0D1F5-17EA-4643-844C-E65D5140BDEA}
+	EndGlobalSection
+EndGlobal
